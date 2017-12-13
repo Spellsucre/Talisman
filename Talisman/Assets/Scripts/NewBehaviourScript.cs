@@ -4,7 +4,8 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour {
+public class NewBehaviourScript : MonoBehaviour
+{
 
 
 	public class Region
@@ -55,5 +56,4 @@ public class NewBehaviourScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () { } 
 		
-	}
 }
